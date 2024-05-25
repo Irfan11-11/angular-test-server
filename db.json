@@ -1,0 +1,29 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin user",
+      "email": "admin@demoapp.com",
+      "status": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "2",
+      "name": "max",
+      "email": "max@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "3",
+      "name": "venu",
+      "email": "venu@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "kyle",
+      "email": "kyle@gmail.com",
+      "status": "0"
+    }
+  ]
+}
